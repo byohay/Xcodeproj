@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gemspec
 
 gem 'claide', :git => 'https://github.com/CocoaPods/CLAide'
+gem 'nanaimo', :git => 'https://github.com/byohay/nanaimo'
 
 # This is the version that ships with OS X 10.10, so be sure we test against it.
 # At the same time, the 1.7.7 version won't install cleanly on Ruby > 2.2,
